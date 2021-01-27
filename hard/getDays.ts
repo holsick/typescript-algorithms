@@ -8,8 +8,8 @@
  * 
  * Test Cases:
  * getDays(
-    new Date("June 14, 2019"),
-    new Date("June 20, 2019")
+ *  new Date("June 14, 2019"),
+ *   new Date("June 20, 2019")
  * ) ➞ 6
  * getDays(
  *  new Date("December 29, 2018"),
